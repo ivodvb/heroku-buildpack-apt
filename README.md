@@ -1,5 +1,5 @@
-# Deprecated
+# Heroku buildpack APT
+Buildpack created by: [ddollar](https://github.com/ddollar)
 
-This project is deprecated and is no longer being maintained.
-
+Notice in previous repository:
 Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
